@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tjeerdritsma.nl/posts/my-first-post/</loc>
+    <loc>https://thewolfnl.github.io/posts/my-first-post/</loc>
     <lastmod>2018-07-01T13:51:07+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tjeerdritsma.nl/categories/</loc>
+    <loc>https://thewolfnl.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tjeerdritsma.nl/posts/</loc>
+    <loc>https://thewolfnl.github.io/posts/</loc>
     <lastmod>2018-07-01T13:51:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tjeerdritsma.nl/tags/</loc>
+    <loc>https://thewolfnl.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tjeerdritsma.nl/</loc>
+    <loc>https://thewolfnl.github.io/</loc>
     <lastmod>2018-07-01T13:51:07+02:00</lastmod>
     <priority>0</priority>
   </url>

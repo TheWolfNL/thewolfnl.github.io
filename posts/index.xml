@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tjeerd Ritsma</title>
-    <link>http://tjeerdritsma.nl/posts/</link>
+    <link>https://thewolfnl.github.io/posts/</link>
     <description>Recent content in Posts on Tjeerd Ritsma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jul 2018 13:51:07 +0200</lastBuildDate>
     
-	<atom:link href="http://tjeerdritsma.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thewolfnl.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://tjeerdritsma.nl/posts/my-first-post/</link>
+      <link>https://thewolfnl.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 01 Jul 2018 13:51:07 +0200</pubDate>
       
-      <guid>http://tjeerdritsma.nl/posts/my-first-post/</guid>
+      <guid>https://thewolfnl.github.io/posts/my-first-post/</guid>
       <description>Test
 test  one two three  Markdown yay!
 Code in the post  and some text after the code example. Adding additional text..</description>
