@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://tjeerdritsma.nl/posts/my-first-post/</loc>
+    <lastmod>2018-07-01T13:51:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjeerdritsma.nl/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjeerdritsma.nl/posts/</loc>
+    <lastmod>2018-07-01T13:51:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjeerdritsma.nl/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjeerdritsma.nl/</loc>
+    <lastmod>2018-07-01T13:51:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
