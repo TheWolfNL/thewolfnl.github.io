@@ -13,9 +13,36 @@
     
 	</head>
 	<body class="loading">
+		<div id="contactForm" class="overlay">	
+			<div class="overlay-content">  
+				<div class="container">  
+					<form id="contact" action="https://formspree.io/tpritsma@gmail.com" method="post">
+						
+						<a href="javascript:void(0)" class="closebtn" onclick="closeContactForm();">&times;</a>
+						<h3>Contact Form</h3>
+						<h4>Use the form below to send me a message.</h4>
+						<fieldset>
+							<input placeholder="Name" type="text" name="name" tabindex="1" required autofocus>
+						</fieldset>
+						<fieldset>
+							<input placeholder="Email Address" type="email" name="_replyto" tabindex="2" required>
+						</fieldset>
+						<fieldset>
+							<input placeholder="Subject" type="text" name="subject" tabindex="4" required>
+						</fieldset>
+						<fieldset>
+							<textarea placeholder="Type your message here...." name="message" tabindex="5" required></textarea>
+						</fieldset>
+						<fieldset>
+							<button type="submit">Send</button>
+						</fieldset>
+					</form>
+				</div>
+			</div>
+		</div>
 		<div id="wrapper">
 			<div id="bg" class="no-scroll"></div>
-			<div id="no-overlay"></div>
+			
 			<div id="main">
 
 				
@@ -25,11 +52,11 @@
 						<nav>
 							<ul>
 								
-								<li><a href="https://github.com/thewolfnl" class="icon fa-github"><span class="label">Github</span></a></li>
+								<li><a href="https://github.com/thewolfnl" class="icon fa-github" ><span class="label">Github</span></a></li>
 								
-								<li><a href="https://linkedin.com/in/thewolfnl" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								<li><a href="https://linkedin.com/in/thewolfnl" class="icon fa-linkedin" ><span class="label">LinkedIn</span></a></li>
 								
-								<li><a href="mailto:tpritsma@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+								<li><a href="#" class="icon fa-envelope-o"  onclick="openContactForm();" ><span class="label">Email</span></a></li>
 								
 							</ul>
 						</nav>
@@ -47,6 +74,15 @@
 			window.onload = function() { document.body.className = ''; }
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
+			 
+			function openContactForm() {
+				document.getElementById("contactForm").style.height = "100%";
+			}
+
+			 
+			function closeContactForm() {
+				document.getElementById("contactForm").style.height = "0%";
+			}
 		</script>
 
     
