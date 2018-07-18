@@ -6,21 +6,9 @@
     <description>Recent content on Tjeerd Ritsma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jul 2018 13:51:07 +0200</lastBuildDate>
     
 	<atom:link href="https://thewolfnl.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://thewolfnl.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 01 Jul 2018 13:51:07 +0200</pubDate>
-      
-      <guid>https://thewolfnl.github.io/posts/my-first-post/</guid>
-      <description>Test
-test  one two three  Markdown yay!
-Code in the post  and some text after the code example. Adding additional text..</description>
-    </item>
     
   </channel>
 </rss>
