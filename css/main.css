@@ -267,6 +267,7 @@ animation: none !important;
 #bg {
 	background-size: 2614px auto;
 	width: 7842px;
+	background-size: contain;
 }
 
 /* Overlay */
