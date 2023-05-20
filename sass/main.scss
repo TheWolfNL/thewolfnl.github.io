@@ -31,7 +31,8 @@
 		}
 
 		#bg {
-			background-size: $width auto;
+			// background-size: $width auto;
+			background-size: contain;
 			width: ($width * 3);
 		}
 	}
